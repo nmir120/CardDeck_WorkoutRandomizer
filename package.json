@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "card-deck": "^1.0.1",
-    "react-router-dom": "^5.1.2"
+    "card-deck": "^1.0.1"
   },
   "devDependencies": {},
   "scripts": {
